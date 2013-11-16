@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="lc_insertnotation.svg"
+   sodipodi:docname="template.svg"
    inkscape:export-filename="/home/rho/SparkleShare/libreoffice-flat-icons/svgs/sc_insertnotation.png"
    inkscape:export-xdpi="60"
    inkscape:export-ydpi="60">
@@ -37,8 +37,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.8682976"
-     inkscape:cx="-7.3890895"
-     inkscape:cy="19.638946"
+     inkscape:cx="-11.266916"
+     inkscape:cy="10.685576"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -112,26 +112,36 @@
        id="rect3019"
        width="8.8836918"
        height="11.295429"
-       x="714.87946"
-       y="721.32416"
+       x="665.49005"
+       y="724.25592"
        rx="0.4753733"
        ry="0.49806622" />
     <path
        style="fill:#515151;fill-opacity:1;stroke:#515151;stroke-width:0.57381517px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="m 715.2595,721.48234 -2.80467,0 2.80467,2.63927 0,-2.63927"
+       d="m 665.87009,724.41413 -2.80467,0 2.80467,2.63927 0,-2.63927"
        id="path3850"
        inkscape:path-effect="#path-effect3852"
-       inkscape:original-d="m 715.2595,721.48234 -2.80467,0 2.80467,2.63927 z"
+       inkscape:original-d="m 665.87009,724.41413 -2.80467,0 2.80467,2.63927 z"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#515151;stroke-width:2.14530396;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 705.95828,718.37297 3.68948,0 0,16.75335 -3.68948,0"
+       d="m 656.56887,721.30476 3.68948,0 0,16.75335 -3.68948,0"
        id="path3854"
        inkscape:path-effect="#path-effect3856"
-       inkscape:original-d="m 705.95828,718.37297 3.68948,0 0,16.75335 -3.68948,0"
+       inkscape:original-d="m 656.56887,721.30476 3.68948,0 0,16.75335 -3.68948,0"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/rho/SparkleShare/libreoffice-flat-icons/svgs/lc_insertnotation.png"
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45" />
+    <g
+       style="fill:#515151;fill-opacity:1"
+       id="g3036"
+       transform="matrix(0.33642883,0,0,0.33642883,706.21376,718.71133)">
+      <path
+         id="path3028"
+         d="M 46.599,40.236 36.054,29.691 C 37.89,26.718 39,23.25 39,19.5 39,8.73 30.27,0 19.5,0 8.73,0 0,8.73 0,19.5 0,30.27 8.73,39 19.5,39 c 3.75,0 7.218,-1.11 10.188,-2.943 l 10.548,10.545 c 1.758,1.758 4.605,1.758 6.363,0 1.758,-1.758 1.758,-4.608 0,-6.366 z M 19.5,33 C 12.045,33 6,26.955 6,19.5 6,12.045 12.045,6 19.5,6 26.955,6 33,12.045 33,19.5 33,26.955 26.955,33 19.5,33 z"
+         inkscape:connector-curvature="0"
+         style="fill:#515151;fill-opacity:1" />
+    </g>
   </g>
 </svg>

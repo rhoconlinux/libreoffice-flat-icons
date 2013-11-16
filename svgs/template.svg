@@ -14,9 +14,21 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Nuevo documento 1">
+   sodipodi:docname="lc_insertnotation.svg"
+   inkscape:export-filename="/home/rho/SparkleShare/libreoffice-flat-icons/svgs/sc_insertnotation.png"
+   inkscape:export-xdpi="60"
+   inkscape:export-ydpi="60">
   <defs
-     id="defs4" />
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3856"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3852"
+       is_visible="true" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="15.261527"
-     inkscape:cy="12.543508"
+     inkscape:zoom="8.8682976"
+     inkscape:cx="-7.3890895"
+     inkscape:cy="19.638946"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,11 +48,11 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="724"
-     inkscape:window-height="458"
-     inkscape:window-x="289"
-     inkscape:window-y="197"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
        position="2.5253814,0.25253814"
@@ -65,6 +77,18 @@
        orientation="0,1"
        position="35.986684,11.743023"
        id="guide3017" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="14.017857,16.607143"
+       id="guide3846" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="17.857143,6.6964286"
+       id="guide3848" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="7.0710678,-5.9346462"
+       id="guide3875" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -84,14 +108,30 @@
      id="layer1"
      transform="translate(-702.32147,-714.61218)">
     <rect
-       style="opacity:0.57990865999999996;fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:0.29999999999999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#515151;fill-opacity:1;stroke:#515151;stroke-width:0.29195246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3019"
-       width="9.3439112"
-       height="11.339286"
-       x="12.121831"
-       y="6.3214283"
-       transform="translate(702.32147,714.61218)"
-       rx="0.5"
-       ry="0.5" />
+       width="8.8836918"
+       height="11.295429"
+       x="714.87946"
+       y="721.32416"
+       rx="0.4753733"
+       ry="0.49806622" />
+    <path
+       style="fill:#515151;fill-opacity:1;stroke:#515151;stroke-width:0.57381517px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 715.2595,721.48234 -2.80467,0 2.80467,2.63927 0,-2.63927"
+       id="path3850"
+       inkscape:path-effect="#path-effect3852"
+       inkscape:original-d="m 715.2595,721.48234 -2.80467,0 2.80467,2.63927 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#515151;stroke-width:2.14530396;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 705.95828,718.37297 3.68948,0 0,16.75335 -3.68948,0"
+       id="path3854"
+       inkscape:path-effect="#path-effect3856"
+       inkscape:original-d="m 705.95828,718.37297 3.68948,0 0,16.75335 -3.68948,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rho/SparkleShare/libreoffice-flat-icons/svgs/lc_insertnotation.png"
+       inkscape:export-xdpi="45"
+       inkscape:export-ydpi="45" />
   </g>
 </svg>
