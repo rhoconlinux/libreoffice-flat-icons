@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="sc_exitsearch.svg"
-   inkscape:export-filename="/home/rho/SparkleShare/libreoffice-flat-icons/svgs/sc_searchdialog.png"
-   inkscape:export-xdpi="60"
-   inkscape:export-ydpi="60">
+   inkscape:export-filename="/home/rho/SparkleShare/libreoffice-flat-icons/svgs/lc_exitsearch.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -45,7 +45,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.8682976"
-     inkscape:cx="-11.266916"
+     inkscape:cx="-20.626097"
      inkscape:cy="10.685576"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -106,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -142,18 +142,18 @@
        inkscape:export-xdpi="45"
        inkscape:export-ydpi="45" />
     <path
-       style="fill:none;stroke:#515151;stroke-width:4.2614255;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 707.76472,719.6466 13.01887,14.18892"
+       style="fill:none;stroke:#515151;stroke-width:2.302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 709.96683,722.0831 8.61465,9.38888"
        id="path3855"
        inkscape:path-effect="#path-effect3857"
-       inkscape:original-d="m 707.76472,719.6466 13.01887,14.18892"
+       inkscape:original-d="m 709.96683,722.0831 8.61465,9.38888"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#515151;stroke-width:4.24239349000000043;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 720.76528,719.70929 -12.75673,14.35144"
+       style="fill:none;stroke:#515151;stroke-width:2.302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 718.56936,722.12459 -8.44119,9.49642"
        id="path3855-2"
        inkscape:path-effect="#path-effect3857-1"
-       inkscape:original-d="m 720.76528,719.70929 -12.75673,14.35144"
+       inkscape:original-d="m 718.56936,722.12459 -8.44119,9.49642"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
